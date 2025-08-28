@@ -1,0 +1,14 @@
+# NeuroChat Requirements
+streamlit>=1.28.0
+google-genai>=0.4.0
+requests>=2.31.0
+textblob>=0.17.1
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# Additional dependencies for advanced features
+numpy>=1.21.0
+scikit-learn>=1.3.0
+
+# Optional: For enhanced web search (Google Custom Search API)
+# google-api-python-client>=2.0.0
